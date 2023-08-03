@@ -9,7 +9,7 @@
     <version>10.8.10</version>
     <internalName>QJellyfin</internalName>
     <platform>
-      <platformID>TS-NASARM_64</platformID>
+      <platformID>TS-NASX86</platformID>
       <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.10/QJellyfin_10.8.10_x86_64.qpkg</location>
     </platform>
     <platform>
