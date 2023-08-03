@@ -10,6 +10,10 @@
     <internalName>QJellyfin</internalName>
     <platform>
       <platformID>TS-NASARM_64</platformID>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.10/QJellyfin_10.8.10_x86_64.qpkg</location>
+    </platform>
+    <platform>
+      <platformID>TS-NASARM_64</platformID>
       <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.10/QJellyfin_10.8.10_arm_64.qpkg</location>
     </platform>
     <platform>
@@ -48,5 +52,7 @@
       <platformID>TS-XA28A</platformID>
       <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.10/QJellyfin_10.8.10_arm_64.qpkg</location>
     </platform>
+    <icon80>https://raw.githubusercontent.com/jsaulalonso/QJellyfin/main/icons/QJellyfin.gif</icon80>
+    <icon100>https://raw.githubusercontent.com/jsaulalonso/QJellyfin/main/icons/QJellyfin_80.gif</icon100>
   </item>
 </plugins>
