@@ -6,51 +6,47 @@
     <type>Media Server</type>
     <description>QJellyfin</description>
     <fwVersion>4.0.0</fwVersion>
-    <version>10.8.11</version>
+    <version>10.8.13</version>
     <internalName>QJellyfin</internalName>
     <platform>
-      <platformID>TS-NASX86</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_x86_64.qpkg</location>
-    </platform>
-    <platform>
       <platformID>TS-NASARM_64</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X16</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X28A</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X32</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X32U</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X33</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X35</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X35A</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-X35EU</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <platform>
       <platformID>TS-XA28A</platformID>
-      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.11/QJellyfin_10.8.11_arm_64.qpkg</location>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
     <icon80>https://raw.githubusercontent.com/jsaulalonso/QJellyfin/main/icons/QJellyfin.gif</icon80>
     <icon100>https://raw.githubusercontent.com/jsaulalonso/QJellyfin/main/icons/QJellyfin_80.gif</icon100>
