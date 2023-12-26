@@ -9,6 +9,10 @@
     <version>10.8.13</version>
     <internalName>QJellyfin</internalName>
     <platform>
+      <platformID>TS-NASX86</platformID>
+      <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_x86_64.qpkg</location>
+    </platform>
+    <platform>
       <platformID>TS-NASARM_64</platformID>
       <location>https://github.com/jsaulalonso/QJellyfin/releases/download/v10.8.13/QJellyfin_10.8.13_arm_64.qpkg</location>
     </platform>
